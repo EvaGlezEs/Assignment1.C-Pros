@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="DataStructures" Database="" Version="10000">
-  <Project Name="stack_implementation" Path="stack_implementation/stack_implementation.project" Active="Yes"/>
+  <Project Name="stack_implementation" Path="stack_implementation/stack_implementation.project" Active="No"/>
+  <Project Name="Assignment1.C++Pros." Path="Assignment1.C++Pros./Assignment1.C++Pros..project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="stack_implementation" ConfigName="Debug"/>
+      <Project Name="Assignment1.C++Pros." ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="stack_implementation" ConfigName="Release"/>
+      <Project Name="Assignment1.C++Pros." ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
